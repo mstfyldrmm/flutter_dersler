@@ -1,0 +1,2 @@
+final mobileWidth = 600;
+
