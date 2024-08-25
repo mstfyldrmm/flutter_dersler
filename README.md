@@ -1,0 +1,1 @@
+Flutter öğrenirken tuttuğum notlar
